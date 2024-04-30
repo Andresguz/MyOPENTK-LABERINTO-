@@ -1,0 +1,47 @@
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\obj\Debug\MyOPENTK.csproj.CoreCompileInputs.cache
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\bin\Debug\MyOPENTK.exe.config
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\bin\Debug\MyOPENTK.exe
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\bin\Debug\MyOPENTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\bin\Debug\OpenTK.dll
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\bin\Debug\OpenTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\bin\Debug\OpenTK.xml
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\bin\Debug\OpenTK.dll.config
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\obj\Debug\MyOPENTK.csproj.CopyComplete
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\obj\Debug\MyOPENTK.exe
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\obj\Debug\MyOPENTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK\MyOPENTK\obj\Debug\MyOPENTK.csprojAssemblyReference.cache
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\bin\Debug\MyOPENTK.exe.config
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\bin\Debug\MyOPENTK.exe
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\bin\Debug\MyOPENTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\bin\Debug\OpenTK.dll
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\bin\Debug\OpenTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\bin\Debug\OpenTK.xml
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\bin\Debug\OpenTK.dll.config
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\obj\Debug\MyOPENTK.csprojAssemblyReference.cache
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\obj\Debug\MyOPENTK.csproj.CoreCompileInputs.cache
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\obj\Debug\MyOPENTK.csproj.CopyComplete
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\obj\Debug\MyOPENTK.exe
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (Choque cuerpos)\MyOPENTK\obj\Debug\MyOPENTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\MyOPENTK.exe.config
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\MyOPENTK.exe
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\MyOPENTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\OpenTK.dll
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\OpenTK.pdb
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\OpenTK.xml
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\OpenTK.dll.config
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.csprojAssemblyReference.cache
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.csproj.CoreCompileInputs.cache
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.csproj.CopyComplete
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.exe
+C:\Users\GASTON SILVA SANCHEZ\source\repos\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.pdb
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\MyOPENTK.exe.config
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\MyOPENTK.exe
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\MyOPENTK.pdb
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\OpenTK.pdb
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\OpenTK.xml
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\bin\Debug\OpenTK.dll.config
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.csproj.AssemblyReference.cache
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.csproj.CoreCompileInputs.cache
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.csproj.CopyComplete
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.exe
+C:\Users\win\Dropbox\PC\Downloads\MyOPENTK (LABERINTO)\MyOPENTK\obj\Debug\MyOPENTK.pdb
